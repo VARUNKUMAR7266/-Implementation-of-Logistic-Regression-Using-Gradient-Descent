@@ -15,7 +15,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 6.Obtain the graph.
 ## Program:
-/*
+
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: VARUNKUMAR K
 RegisterNumber:  212219040173
@@ -64,13 +64,12 @@ plt.xlabel("AGE")
 plt.ylabel("ESTIMATED SALARY")
 plt.legend()
 plt.show()
-*/
-```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/88264052/175304767-db2f53c8-e9c9-459f-8609-83243d55577b.png)
 
 
-![174733013-f71b83ab-31a2-49cd-9af2-66ecc019bd1c](https://user-images.githubusercontent.com/88264052/175302543-2102260c-0975-4d0c-bee8-a777c7980107.png)
+
 
 
 
